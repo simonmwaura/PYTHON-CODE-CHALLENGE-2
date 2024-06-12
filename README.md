@@ -187,3 +187,4 @@ Feel free to build out any helper methods if needed.
   - **venue_test.py**
     - lines 28-29, 41-42, 64-65, and 77-78
 # PYTHON-CODE-CHALLENGE-2
+# PYTHON-CODE-CHALLENGE-2
